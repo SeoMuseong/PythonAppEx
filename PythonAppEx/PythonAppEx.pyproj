@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>72e509f6-f0fc-4a06-9bd0-578e1b805a87</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>Ex01.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Ex01.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="fahrenheit.py" />
     <Compile Include="indexing.py" />
     <Compile Include="input.py">
