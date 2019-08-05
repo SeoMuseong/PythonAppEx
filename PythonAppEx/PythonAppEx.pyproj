@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>72e509f6-f0fc-4a06-9bd0-578e1b805a87</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Ex01.py</StartupFile>
+    <StartupFile>1754.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,18 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="1751.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1752.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1753.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1754.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Ex01.py">
       <SubType>Code</SubType>
     </Compile>
