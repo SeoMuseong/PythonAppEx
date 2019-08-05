@@ -22,6 +22,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="fahrenheit.py" />
+    <Compile Include="indexing.py" />
     <Compile Include="input.py">
       <SubType>Code</SubType>
     </Compile>
